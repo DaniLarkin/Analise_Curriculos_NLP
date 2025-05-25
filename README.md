@@ -1,4 +1,4 @@
-# Analise_Curriculos_NLP
+# Analise Curriculos NLP
 
 ## Descrição
 Este projeto tem como objetivo demonstrar habilidades em dados e inteligência artificial por meio do desenvolvimento do projeto Analise Curriculos NLP.
